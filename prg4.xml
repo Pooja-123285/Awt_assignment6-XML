@@ -1,0 +1,39 @@
+<?xml version = "1.0"?>  
+<?xml-stylesheet type = "text/xsl" href = "prg4.xsl"?>   
+<class>   
+   <employee id = "101">  
+      <firstname>Poonam</firstname>   
+      <lastname>Shetty</lastname>   
+      <middlename>P</middlename>   
+      <fathername>Udaya Shetty</fathername>  
+       <dob>15-11-1970</dob>
+       <city> Manglore</city>
+       <state>Karnataka</state>
+       <qualification>BA</qualification>
+       <salary>50500</salary>
+   </employee>   
+   <employee id = "102">   
+      <firstname> Dwani</firstname>   
+      <lastname>Shetty</lastname>   
+      <middlename>P</middlename>   
+      <fathername>Prasanna Shetty </fathername>  
+       <dob>03-01-1983</dob>
+       <city>Mira road</city>
+       <state> Maharastra</state>
+       <qualification>MCA</qualification>
+       <salary>100000</salary>
+   </employee>   
+   <employee id = "103">   
+      <firstname>Archana</firstname>   
+      <lastname>Bhat</lastname>   
+      <middlename>S</middlename>   
+      <fathername> Suresh Bhat</fathername>  
+       <dob>20-05-1950</dob>
+       <city>Udupi</city>
+       <state>Karnataka</state>
+       <qualification>MBA</qualification>
+       <salary>15000</salary>
+   </employee>   
+
+
+
